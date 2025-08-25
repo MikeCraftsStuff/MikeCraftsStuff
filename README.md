@@ -18,14 +18,14 @@ I already know **Python, HTML, CSS, C++, MATLAB, and LaTeX**, and I’m currentl
 
 ---
 
-## Projects  
+## Projects working on
 
-### Easy (quick builds, practice fundamentals)  
+### (quick builds, practice fundamentals)  
 1. **Task Manager CLI** – Command-line app to add, update, and delete tasks (Python).  
 2. **Notes Web App** – Basic CRUD app using HTML, CSS, and JS.  
 3. **Markdown Blog Generator** – Convert `.md` files into a simple blog.  
 
-### Medium (learn APIs, databases, and small AI ideas)  
+### (learn APIs, databases, and small AI ideas)  
 4. **Weather Dashboard** – Pulls live data from an API and displays in a clean UI.  
 5. **Personal Portfolio Website** – Showcase my skills, projects, and contact info.  
 6. **Flashcards App** – Simple spaced-repetition learning app (Python or JS).  
@@ -33,7 +33,7 @@ I already know **Python, HTML, CSS, C++, MATLAB, and LaTeX**, and I’m currentl
 8. **Q&A App for PDFs** – Chat with uploaded documents using LangChain.  
 9. **ShopHana** – Shopping site for my sister, with product listings and cart.  
 
-### Hard (larger projects, deeper learning)  
+### (larger projects, deeper learning)  
 10. **AI Movie Q&A App** – RAG-based app to chat with scripts & subtitles.  
 11. **Dream Clips Manager** – Web platform to organize and showcase video edits.  
 12. **Multi-user Blog Platform** – With accounts, authentication, and database.  
@@ -52,5 +52,5 @@ I already know **Python, HTML, CSS, C++, MATLAB, and LaTeX**, and I’m currentl
 
 ## Connect with Me  
 - Gmail: mikiyas.sintayehu.sh@gmail.com  
-- LinkedIn: [linkedin.com/in/yourprofile](#)  
-- Telegram: [t.me/yourusername](#)
+- LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mikiyas-sintayehu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
+- Telegram: [t.me/MikiyaSintayehu](#)
