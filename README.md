@@ -1,6 +1,6 @@
 # Hi, I’m Mikiyas 
 
-Beginner Web Developer and AI Enthusiast | Movie Lover | Always Learning  
+ Web Developer and AI Enthusiast | Movie Lover | Always Learning  
 ---
 
 ## Introduction  
