@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Frameworks/Tools:** Streamlit, LangChain, React, TailwindCSS  
 - **Databases:** ChromaDB, SQLite (learning more soon)  
