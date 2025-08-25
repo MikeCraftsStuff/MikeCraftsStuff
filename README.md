@@ -2,7 +2,47 @@
 
 Beginner Web Developer and AI Enthusiast | Movie Lover | Always Learning  
 
----
+<p align="center">
+  <svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Desk -->
+    <rect x="0" y="150" width="300" height="50" fill="#444" />
+
+    <!-- Laptop -->
+    <rect x="170" y="100" width="100" height="60" rx="6" fill="#cce7ff" stroke="#333" />
+    <rect x="180" y="110" width="80" height="40" fill="#99d6ff">
+      <animate attributeName="fill" values="#99d6ff;#66ccff;#99d6ff" dur="2s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Dog body -->
+    <ellipse cx="100" cy="140" rx="50" ry="30" fill="#f5deb3" stroke="#654321" stroke-width="3" />
+
+    <!-- Dog head -->
+    <circle cx="60" cy="110" r="25" fill="#f5deb3" stroke="#654321" stroke-width="3">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 2; 0 0" dur="1s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Eye -->
+    <circle cx="55" cy="108" r="4" fill="black">
+      <animate attributeName="r" values="4;0;4" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Paw typing -->
+    <circle cx="130" cy="160" r="10" fill="#f5deb3" stroke="#654321" stroke-width="2">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -5; 0 0" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="160" r="10" fill="#f5deb3" stroke="#654321" stroke-width="2">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -5; 0 0" dur="0.5s" begin="0.25s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Tail wag -->
+    <line x1="145" y1="135" x2="180" y2="120" stroke="#654321" stroke-width="6">
+      <animateTransform attributeName="transform" type="rotate" values="10 145 135;-10 145 135;10 145 135" dur="0.5s" repeatCount="indefinite"/>
+    </line>
+  </svg>
+
+</p>
+
+
 
 ## Introduction  
 I’m starting my journey in **web development** and **artificial intelligence**.  
