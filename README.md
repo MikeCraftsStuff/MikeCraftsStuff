@@ -44,10 +44,10 @@ I already know **Python, HTML, CSS, C++, MATLAB, and LaTeX**, and I’m currentl
 ---
 
 ## GitHub Stats  
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCraftsStuff&show_icons=true&theme=tokyonight)  
+## GitHub Stats  
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCraftsStuff&show_icons=true&theme=tokyonight&cache_seconds=1800)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCraftsStuff&layout=compact&theme=tokyonight)  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCraftsStuff&layout=compact&theme=tokyonight&cache_seconds=1800)
 ---
 
 ## Connect with Me  
