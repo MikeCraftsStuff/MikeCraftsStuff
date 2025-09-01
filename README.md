@@ -50,6 +50,6 @@ I already know **Python, HTML, CSS, C++, MATLAB, and LaTeX**, and I’m currentl
 ---
 
 ## Connect with Me  
-- Gmail: mikiyas.sintayehu.sh@gmail.com  
+- Gmail: dr9amxplorer@gmail.com  
 - LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mikiyas-sintayehu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
 - Telegram: [t.me/MikiyaSintayehu](#)
